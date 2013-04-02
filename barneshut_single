@@ -1,0 +1,2 @@
+#!/bin/bash
+java -cp bin/ org.dramatic.project.BarnesHutSeq $1 $2 $3 $4 $5

@@ -1,0 +1,3 @@
+#!/bin/bash
+java -cp lib/lwjgl-2.8.5/jar/lwjgl.jar:lib/lwjgl-2.8.5/jar/lwjgl_util.jar:bin/ -Djava.library.path=lib/lwjgl-2.8.5/native/linux/ org.dramatic.project.Main $@
+
