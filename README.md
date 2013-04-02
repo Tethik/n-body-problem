@@ -1,7 +1,7 @@
 n-body-problem
 ==============
-
 A java physics simulator for simulating the force of gravity.
+Authors: Frederick Ceder and Joakim Uddholm
 
 == Requirements ==
 1. Java 1.7 (JRE)
